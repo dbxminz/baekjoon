@@ -1,9 +1,9 @@
 # baekjoon
-solution of baekjoon (python)
+### solution of baekjoon (python)
 
-* step 1: 입출력과 사칙연산
-* step 2: if문
-* step 3: for문
+* step 1: 입출력과 사칙연산 ✅
+* step 2: if문 ✅
+* step 3: for문 ✅
 * step 4: while문
 * step 5: 1차원 배열
 * step 6: 함수
